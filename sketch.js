@@ -24,8 +24,7 @@ function draw() {
   mostraGol(xMeuGol, yMeuGol);
   mostraGol(xOponenteGol, yOponenteGol);
   verificaMeuGol(xMeuGol, yMeuGol);
-  verificaGolOpoente(xOponenteGol,yOponenteGol);
-    
+  verificaGolOpoente(xOponenteGol,yOponenteGol);    
 }
 
 
