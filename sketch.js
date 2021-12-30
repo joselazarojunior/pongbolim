@@ -19,13 +19,10 @@ function draw() {
   mostraJogadores();
   movimentaJogadores();
   movimentaJogadoresOponentes();  
-  
   verificaColisaoBorda();
   verificaColisaoJogadores();
-    
   mostraGol(xMeuGol, yMeuGol);
   mostraGol(xOponenteGol, yOponenteGol);
-  
   verificaMeuGol(xMeuGol, yMeuGol);
   verificaGolOpoente(xOponenteGol,yOponenteGol);
     
