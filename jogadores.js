@@ -2,7 +2,7 @@ let xJogadores = [15, 325, 575, 255];
 let yJogadores = [160, 160, 160, 160];
 let jogadorComprimento = 8;
 let jogadorAltura = 70;
-
+//Aprendendo a commitar em uma nova branch!
 let colidiu = false;
 
 function mostraJogadores(){
